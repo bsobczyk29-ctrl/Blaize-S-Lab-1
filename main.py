@@ -1,4 +1,4 @@
-Name = input("what is your favorite color? :")
+Name = input("what is your name? :")
 Age = input("How old are you? :")
-Color= input("whats your name? :")
-print("Hello", Name, "Your name is blaize", Age , "you are 15",Color,"red") 
+Color= input("Whats your favorite color? :")
+print("your name is", Name,"you are", Age ,"your favorite color is" ,Color) 
